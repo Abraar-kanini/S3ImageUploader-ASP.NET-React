@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|c:\\users\\welcome\\source\\repos\\amazon-demo\\amazon-demo\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|solutionrelative:amazon-demo\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|c:\\users\\welcome\\source\\repos\\amazon-demo\\amazon-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|solutionrelative:amazon-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|c:\\users\\welcome\\source\\repos\\amazon-demo\\amazon-demo\\dto\\s3objectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|solutionrelative:amazon-demo\\dto\\s3objectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|c:\\users\\welcome\\source\\repos\\amazon-demo\\amazon-demo\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|solutionrelative:amazon-demo\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|c:\\users\\welcome\\source\\repos\\amazon-demo\\amazon-demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\Amazon-Demo.csproj|solutionrelative:amazon-demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\AmazonS3-ImageUploader.csproj|c:\\users\\welcome\\source\\repos\\amazon-demo\\amazon-demo\\amazons3-imageuploader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{58120B1C-11B6-4787-9227-C3BA2EBA6057}|Amazon-Demo\\AmazonS3-ImageUploader.csproj|solutionrelative:amazon-demo\\amazons3-imageuploader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "S3ObjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\DTO\\S3ObjectDto.cs",
+              "RelativeDocumentMoniker": "Amazon-Demo\\DTO\\S3ObjectDto.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\DTO\\S3ObjectDto.cs",
+              "RelativeToolTip": "Amazon-Demo\\DTO\\S3ObjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:33:42.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "Amazon-Demo\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "Amazon-Demo\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:30:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Amazon-Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\Program.cs",
+              "RelativeToolTip": "Amazon-Demo\\Program.cs",
+              "ViewState": "AQIAABwAAAAgMzMzMzMrwCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:27:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BucketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\Controllers\\BucketsController.cs",
+              "RelativeDocumentMoniker": "Amazon-Demo\\Controllers\\BucketsController.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\Controllers\\BucketsController.cs",
+              "RelativeToolTip": "Amazon-Demo\\Controllers\\BucketsController.cs",
+              "ViewState": "AQIAAAYAAAAgMzMzMzMpwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:22:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Amazon-Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\appsettings.json",
+              "RelativeToolTip": "Amazon-Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T12:21:45.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Amazon-Demo.csproj",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\AmazonS3-ImageUploader.csproj",
+              "RelativeDocumentMoniker": "Amazon-Demo\\AmazonS3-ImageUploader.csproj",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\Amazon-Demo\\Amazon-Demo\\AmazonS3-ImageUploader.csproj",
+              "RelativeToolTip": "Amazon-Demo\\AmazonS3-ImageUploader.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T12:21:26.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

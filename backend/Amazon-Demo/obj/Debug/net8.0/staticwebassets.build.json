@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7rfM1Mcj2U0NU2qQRO6y4AmA8m/hHaMl6XUsVpALhJQ=",
+  "Source": "AmazonS3-ImageUploader",
+  "BasePath": "_content/AmazonS3-ImageUploader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
