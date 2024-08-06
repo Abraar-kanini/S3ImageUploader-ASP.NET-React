@@ -43,5 +43,5 @@ This project consists of an ASP.NET Web API backend and a React frontend. The ba
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/amazon-s3-file-upload.git
+   git clone https://github.com/Abraar-kanini/S3ImageUploader-ASP.NET-React.git
    cd amazon-s3-file-upload
